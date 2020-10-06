@@ -102,5 +102,5 @@ void promedio1(int n){
 	for(i=n-1;i>=0;i--){
 		cout<<"Puesto ["<<n-i<<"] nota---"<<numeros[i]<<endl;
 	}
-	
+	cout<<"ADIOS";
 }
